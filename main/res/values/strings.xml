@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Oogway Calculator</string>
+    <string name="divide">÷</string>
+    <string name="history">HS</string>
+</resources>
